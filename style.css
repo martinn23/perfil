@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+body {
+       background-color: dodgerblue;
+       background-image: url(./assets/field-6517865_1920.jpg);
+       background-size: 100% 100%;
+       background-attachment: fixed;
+
+
+
+
+    }
+h1 { 
+   color: seashell;
+   text-align: center;
+   font-size: 50px ;
+}
+
+.div{
+    width: 300px;
+    height: 300px;
+    clear: right;
+    color: seashell;
+    text-align: center;
+    background-image: 
+    
+}  
+
+.contenedor{
+    width: 900px;
+    height: 900px;
+  margin-left: 180px;
+  display: flex;
+  
+}
+
+.div1{
+    width: 300px;
+    height: 300px;
+     color: seashell;
+     text-align:center;
+     font-size: 20px;
+     background-color: turquoise;
+     float: left;
+}
+
+
+.div2{
+      color: seashell;
+      width: 300px;
+      height: 300px;
+      text-align: center;
+      font-size: 20px;
+      background-color: tomato;
+     float: left;
+
+}
+.div3 {
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font-size: 20px;
+        color: seashell; 
+    background-color: burlywood;    
+    float: left;
+}
+ 
+.div4{
+    width: 300px;
+    height: 300px;
+     color: seashell;
+     text-align:center;
+     font-size: 20px;
+     background-color: coral;
+     float: left;
+}
